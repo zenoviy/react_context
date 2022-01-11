@@ -1,0 +1,1 @@
+export const helloText: string = `Say Hi to React Context! i am a hidden text.`;
